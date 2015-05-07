@@ -1,0 +1,20 @@
+{
+  "author": "infographicstw",
+  "name": "crawler-company-update",
+  "description": "crawl company update status from data.gcis.nat.gov.tw",
+  "version": "0.0.1",
+  "homepage": "https://github.com/infographicstw/crawler-company-update",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infographicstw/crawler-company-update"
+  },
+  "engines": {
+    "node": ">=0.8.18",
+    "npm": ">=1.2.2"
+  },
+  "dependencies": {
+    "bluebird": "=2.9.21",
+    "cheerio": "=0.19.0",
+    "request": "=2.54.0"
+  }
+}
